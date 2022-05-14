@@ -16,3 +16,5 @@ Some demo videos are provided. See [my demo videos](https://drive.google.com/dri
     * image processing & mouse event & basic animation 
 * [My Photoshop](https://github.com/maokun2022/JackystanCodeprojects/tree/main/JackystanCodeprojects/my_photoshop)
     * image processing
+* [Weather Master](https://github.com/maokun2022/JackystanCodeprojects/tree/main/JackystanCodeprojects/weather%20master)
+    * python semantics & syntax
